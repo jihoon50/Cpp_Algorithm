@@ -12,4 +12,4 @@
  
 | 분류                             | 문제                                                         | 코드                               |
 | -------------------------------- | ------------------------------------------------------------ |------------------------------------|
-| **환경세팅**                 | [🥉2738 행렬 덧셈 문제](https://www.acmicpc.net/problem/2738)  [🥉1110 더하기 사이클 문제](https://www.acmicpc.net/problem/1110) | [🥉2738 행렬 덧셈 코드](https://github.com/jihoon50/Algorithm/blob/master/2738.cpp)  [🥉1110 더하기 사이클 코드](https://github.com/jihoon50/Algorithm/blob/main/1110.cpp)]
+| **환경세팅**                 | [🥉2738 행렬 덧셈 문제](https://www.acmicpc.net/problem/2738)  [🥉1110 더하기 사이클 문제](https://www.acmicpc.net/problem/1110) | [🥉2738 행렬 덧셈 코드](https://github.com/jihoon50/Algorithm/blob/master/2738.cpp)  [🥉1110 더하기 사이클 코드](https://github.com/jihoon50/Algorithm/blob/main/1110.cpp)|
