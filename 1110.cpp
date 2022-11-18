@@ -18,5 +18,4 @@ int main(void){
     cin >> N;
     cycle(N);
     cout << cnt;
-
 }
